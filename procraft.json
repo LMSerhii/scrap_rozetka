@@ -1,0 +1,4509 @@
+{
+    "data": {
+        "empty_response_type": "",
+        "empty_response_message": "",
+        "quantities": {
+            "goods_quantity_max": 1000,
+            "goods_quantity_found": 221,
+            "goods_quantity_total_found": 1465
+        },
+        "pagination": {
+            "page_size": 36,
+            "show_next": 36,
+            "shown_page": 1,
+            "total_pages": 7
+        },
+        "options": [
+            {
+                "hide_block": false,
+                "option_id": "producer",
+                "option_name": "producer",
+                "option_title": "Виробник",
+                "option_type": "List",
+                "special_combobox_view": "list",
+                "title_accusative": "",
+                "title_genetive": "",
+                "title_prepositional": "",
+                "category_id": "",
+                "comparable": "",
+                "more_word": "",
+                "order": 0.2,
+                "is_checkbox": false,
+                "option_values": [
+                    {
+                        "option_value_id": 246550,
+                        "option_value_name": "procraft",
+                        "option_value_title": "ProCraft",
+                        "order": 0.2,
+                        "products_quantity": "+226",
+                        "disabled": false,
+                        "is_chosen": true,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 219344,
+                        "option_value_name": "kraissmann",
+                        "option_value_title": "KRAISSMANN",
+                        "order": 1.2,
+                        "products_quantity": "+194",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 832,
+                        "option_value_name": "grand",
+                        "option_value_title": "Гранд",
+                        "order": 2.2,
+                        "products_quantity": "+144",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 1887,
+                        "option_value_name": "sturm",
+                        "option_value_title": "Sturm",
+                        "order": 3.2,
+                        "products_quantity": "+131",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 258590,
+                        "option_value_name": "vorskla",
+                        "option_value_title": "Vorskla",
+                        "order": 4.2,
+                        "products_quantity": "+112",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 223272,
+                        "option_value_name": "elprom",
+                        "option_value_title": "Елпром",
+                        "order": 5.2,
+                        "products_quantity": "+102",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 259278,
+                        "option_value_name": "tata",
+                        "option_value_title": "Tata",
+                        "order": 6.2,
+                        "products_quantity": "+55",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 223240,
+                        "option_value_name": "eltos",
+                        "option_value_title": "Eltos",
+                        "order": 7.2,
+                        "products_quantity": "+52",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 223136,
+                        "option_value_name": "craft-tec",
+                        "option_value_title": "Craft-Tec",
+                        "order": 8.2,
+                        "products_quantity": "+41",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 315755,
+                        "option_value_name": "vilmas",
+                        "option_value_title": "Vilmas",
+                        "order": 9.2,
+                        "products_quantity": "+34",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 471241,
+                        "option_value_name": "worcraft",
+                        "option_value_title": "Worcraft",
+                        "order": 10.2,
+                        "products_quantity": "+30",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 4920,
+                        "option_value_name": "termiya",
+                        "option_value_title": "Термія",
+                        "order": 11.2,
+                        "products_quantity": "+28",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 13292,
+                        "option_value_name": "spektr",
+                        "option_value_title": "Spektr",
+                        "order": 12.2,
+                        "products_quantity": "+27",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 1700,
+                        "option_value_name": "forte",
+                        "option_value_title": "Forte",
+                        "order": 13.2,
+                        "products_quantity": "+27",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 11877,
+                        "option_value_name": "goodluck",
+                        "option_value_title": "GoodLuck",
+                        "order": 14.2,
+                        "products_quantity": "+20",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 261606,
+                        "option_value_name": "stromo",
+                        "option_value_title": "Stromo",
+                        "order": 15.2,
+                        "products_quantity": "+18",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 162,
+                        "option_value_name": "best",
+                        "option_value_title": "Best",
+                        "order": 16.2,
+                        "products_quantity": "+17",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 2906,
+                        "option_value_name": "grunhelm",
+                        "option_value_title": "Grunhelm",
+                        "order": 17.2,
+                        "products_quantity": "+12",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 194,
+                        "option_value_name": "kaiser",
+                        "option_value_title": "Kaiser",
+                        "order": 18.2,
+                        "products_quantity": "+9",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 247,
+                        "option_value_name": "crown",
+                        "option_value_title": "Crown",
+                        "order": 19.2,
+                        "products_quantity": "+9",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 521935,
+                        "option_value_name": "goodluck-pro",
+                        "option_value_title": "GoodLuck Pro",
+                        "order": 20.2,
+                        "products_quantity": "+8",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 265308,
+                        "option_value_name": "miass",
+                        "option_value_title": "Міасс",
+                        "order": 21.2,
+                        "products_quantity": "+7",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 431638,
+                        "option_value_name": "yuga-servis",
+                        "option_value_title": "Півдня-Сервіс",
+                        "order": 22.2,
+                        "products_quantity": "+7",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 13482,
+                        "option_value_name": "tehprom",
+                        "option_value_title": "Техпром",
+                        "order": 23.2,
+                        "products_quantity": "+6",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 4555,
+                        "option_value_name": "stal",
+                        "option_value_title": "СТАЛЬ",
+                        "order": 24.2,
+                        "products_quantity": "+6",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 218544,
+                        "option_value_name": "teplusha",
+                        "option_value_title": "Теплуша",
+                        "order": 25.2,
+                        "products_quantity": "+6",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 208184,
+                        "option_value_name": "elektromash",
+                        "option_value_title": "Електромаш",
+                        "order": 26.2,
+                        "products_quantity": "+6",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 10682,
+                        "option_value_name": "lemira",
+                        "option_value_title": "Леміра",
+                        "order": 27.2,
+                        "products_quantity": "+6",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 274170,
+                        "option_value_name": "kedr",
+                        "option_value_title": "Кедр",
+                        "order": 28.2,
+                        "products_quantity": "+5",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 265248,
+                        "option_value_name": "elikor",
+                        "option_value_title": "Elikor",
+                        "order": 29.2,
+                        "products_quantity": "+5",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 12832,
+                        "option_value_name": "kentavr",
+                        "option_value_title": "Кентавр",
+                        "order": 30.2,
+                        "products_quantity": "+5",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 265452,
+                        "option_value_name": "ritm-m",
+                        "option_value_title": "Ритм-М",
+                        "order": 31.2,
+                        "products_quantity": "+4",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 18876,
+                        "option_value_name": "riga",
+                        "option_value_title": "Riga",
+                        "order": 32.2,
+                        "products_quantity": "+4",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 10952,
+                        "option_value_name": "mlin-ok",
+                        "option_value_title": "Млин-ОК",
+                        "order": 33.2,
+                        "products_quantity": "+4",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 11887,
+                        "option_value_name": "baykal",
+                        "option_value_title": "Байкал",
+                        "order": 34.2,
+                        "products_quantity": "+4",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 479333,
+                        "option_value_name": "gomel",
+                        "option_value_title": "Гомель",
+                        "order": 35.2,
+                        "products_quantity": "+4",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 574736,
+                        "option_value_name": "5a5bb41d",
+                        "option_value_title": "Плазма",
+                        "order": 36.2,
+                        "products_quantity": "+3",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 219352,
+                        "option_value_name": "kaltman",
+                        "option_value_title": "Kaltman",
+                        "order": 37.2,
+                        "products_quantity": "+3",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 352671,
+                        "option_value_name": "gardtech",
+                        "option_value_title": "Gardtech",
+                        "order": 38.2,
+                        "products_quantity": "+3",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 123019,
+                        "option_value_name": "ukrprom",
+                        "option_value_title": "Укрпром",
+                        "order": 39.2,
+                        "products_quantity": "+3",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 315363,
+                        "option_value_name": "mogilev",
+                        "option_value_title": "Могилів",
+                        "order": 40.2,
+                        "products_quantity": "+3",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 219336,
+                        "option_value_name": "nordex",
+                        "option_value_title": "Nordex",
+                        "order": 41.2,
+                        "products_quantity": "+3",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 400539,
+                        "option_value_name": "cleaner",
+                        "option_value_title": "Cleaner",
+                        "order": 42.2,
+                        "products_quantity": "+3",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 2492,
+                        "option_value_name": "partner",
+                        "option_value_title": "Partner",
+                        "order": 43.2,
+                        "products_quantity": "+2",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 202867,
+                        "option_value_name": "edon",
+                        "option_value_title": "Edon",
+                        "order": 44.2,
+                        "products_quantity": "+2",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 163815,
+                        "option_value_name": "shark",
+                        "option_value_title": "Shark",
+                        "order": 45.2,
+                        "products_quantity": "+2",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 484667,
+                        "option_value_name": "rupez",
+                        "option_value_title": "RUPEZ",
+                        "order": 46.2,
+                        "products_quantity": "+2",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 118,
+                        "option_value_name": "assistant",
+                        "option_value_title": "Assistant",
+                        "order": 47.2,
+                        "products_quantity": "+2",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 223368,
+                        "option_value_name": "ritm",
+                        "option_value_title": "Ритм",
+                        "order": 48.2,
+                        "products_quantity": "+2",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 13327,
+                        "option_value_name": "karpaty",
+                        "option_value_title": "Карпати",
+                        "order": 49.2,
+                        "products_quantity": "+2",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 661527,
+                        "option_value_name": "awox",
+                        "option_value_title": "Awox",
+                        "order": 50.2,
+                        "products_quantity": "+2",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 119842,
+                        "option_value_name": "profit-m",
+                        "option_value_title": "Profit M",
+                        "order": 51.2,
+                        "products_quantity": "+2",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 11892,
+                        "option_value_name": "tayga",
+                        "option_value_title": "Тайга",
+                        "order": 52.2,
+                        "products_quantity": "+2",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 13317,
+                        "option_value_name": "iskra",
+                        "option_value_title": "Іскра",
+                        "order": 53.2,
+                        "products_quantity": "+2",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 383650,
+                        "option_value_name": "motocraft",
+                        "option_value_title": "Motocraft",
+                        "order": 54.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 16384,
+                        "option_value_name": "spectr",
+                        "option_value_title": "Спектр",
+                        "order": 55.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 315370,
+                        "option_value_name": "weld",
+                        "option_value_title": "Weld",
+                        "order": 56.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 490638,
+                        "option_value_name": "luxell",
+                        "option_value_title": "LUXELL",
+                        "order": 57.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 315328,
+                        "option_value_name": "atlas-welding",
+                        "option_value_title": "Atlas Welding",
+                        "order": 58.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 378716,
+                        "option_value_name": "tokachi",
+                        "option_value_title": "Tokachi",
+                        "order": 59.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 398589,
+                        "option_value_name": "740f6538",
+                        "option_value_title": "Ера",
+                        "order": 60.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 378614,
+                        "option_value_name": "leader-garden",
+                        "option_value_title": "Leader Garden",
+                        "order": 61.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 357219,
+                        "option_value_name": "ribir",
+                        "option_value_title": "Ribir",
+                        "order": 62.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 274116,
+                        "option_value_name": "stihl",
+                        "option_value_title": "Stihl",
+                        "order": 63.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 271620,
+                        "option_value_name": "e0960a98",
+                        "option_value_title": "Сіріус",
+                        "order": 64.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 119206,
+                        "option_value_name": "chudesnitsa",
+                        "option_value_title": "Ротор",
+                        "order": 65.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 223120,
+                        "option_value_name": "eurotec",
+                        "option_value_title": "Eurotec",
+                        "order": 66.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 452768,
+                        "option_value_name": "feller",
+                        "option_value_title": "FELLER",
+                        "order": 67.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 1701,
+                        "option_value_name": "firman",
+                        "option_value_title": "Firman",
+                        "order": 68.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 127768,
+                        "option_value_name": "belomo",
+                        "option_value_title": "БілОМО",
+                        "order": 69.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 1063,
+                        "option_value_name": "saturn",
+                        "option_value_title": "Saturn",
+                        "order": 70.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 378020,
+                        "option_value_name": "harvester",
+                        "option_value_title": "Harvester",
+                        "order": 71.2,
+                        "products_quantity": "+1",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    }
+                ],
+                "short_list": [
+                    {
+                        "option_value_id": 246550,
+                        "option_value_name": "procraft",
+                        "option_value_title": "ProCraft",
+                        "order": 0.2,
+                        "products_quantity": "+226",
+                        "disabled": false,
+                        "is_chosen": true,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 219344,
+                        "option_value_name": "kraissmann",
+                        "option_value_title": "KRAISSMANN",
+                        "order": 1.2,
+                        "products_quantity": "+194",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 832,
+                        "option_value_name": "grand",
+                        "option_value_title": "Гранд",
+                        "order": 2.2,
+                        "products_quantity": "+144",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 1887,
+                        "option_value_name": "sturm",
+                        "option_value_title": "Sturm",
+                        "order": 3.2,
+                        "products_quantity": "+131",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 258590,
+                        "option_value_name": "vorskla",
+                        "option_value_title": "Vorskla",
+                        "order": 4.2,
+                        "products_quantity": "+112",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 223272,
+                        "option_value_name": "elprom",
+                        "option_value_title": "Елпром",
+                        "order": 5.2,
+                        "products_quantity": "+102",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 259278,
+                        "option_value_name": "tata",
+                        "option_value_title": "Tata",
+                        "order": 6.2,
+                        "products_quantity": "+55",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 223240,
+                        "option_value_name": "eltos",
+                        "option_value_title": "Eltos",
+                        "order": 7.2,
+                        "products_quantity": "+52",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 223136,
+                        "option_value_name": "craft-tec",
+                        "option_value_title": "Craft-Tec",
+                        "order": 8.2,
+                        "products_quantity": "+41",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 315755,
+                        "option_value_name": "vilmas",
+                        "option_value_title": "Vilmas",
+                        "order": 9.2,
+                        "products_quantity": "+34",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 471241,
+                        "option_value_name": "worcraft",
+                        "option_value_title": "Worcraft",
+                        "order": 10.2,
+                        "products_quantity": "+30",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    },
+                    {
+                        "option_value_id": 4920,
+                        "option_value_name": "termiya",
+                        "option_value_title": "Термія",
+                        "order": 11.2,
+                        "products_quantity": "+28",
+                        "disabled": false,
+                        "is_chosen": false,
+                        "is_rank": false,
+                        "title_accusative": "",
+                        "title_genetive": "",
+                        "title_prepositional": "",
+                        "is_checkbox": false,
+                        "not_hidden": false
+                    }
+                ],
+                "total_filtered": 72,
+                "total_found": 72,
+                "count_rank_options": 12,
+                "count_rank_active_options": 12
+            },
+            {
+                "hide_block": false,
+                "option_id": "price",
+                "option_name": "price",
+                "option_title": "Ціна",
+                "option_value_unit": "",
+                "special_combobox_view": "slider",
+                "isDecimal": false,
+                "order": 0.4,
+                "config": {
+                    "maxLength": 20,
+                    "valuesPattern": "^\\d+$",
+                    "limit": {
+                        "min": 801,
+                        "max": 23136
+                    },
+                    "unit": ""
+                },
+                "range_values": {
+                    "min": 801,
+                    "max": 23136
+                },
+                "chosen_values": null
+            }
+        ],
+        "chosen": {
+            "producer": {
+                "procraft": {
+                    "id": 246550,
+                    "name": "procraft",
+                    "option_title": "Виробник",
+                    "option_value_title": "ProCraft",
+                    "unit": ""
+                }
+            }
+        },
+        "related_options": [],
+        "seller_info": {
+            "title": "Instrument.Free",
+            "page_title": "",
+            "logo_url": "https://content.rozetka.com.ua/sellers/logo/original/288727572.jpg",
+            "rating_class": "merchant-rating-green"
+        },
+        "categories": {
+            "list_categories": [
+                {
+                    "icon": "https://content2.rozetka.com.ua/goods/image_for_search/original/228453286.png",
+                    "children": [
+                        {
+                            "hide_cat": false,
+                            "id": 155515,
+                            "title": "Ланцюгові пили",
+                            "count": 115
+                        },
+                        {
+                            "hide_cat": false,
+                            "id": 4674175,
+                            "title": "Занурювальні насоси",
+                            "count": 10
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 155089,
+                            "title": "Тримери та мотокоси",
+                            "count": 107
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4627617,
+                            "title": "Мотобури",
+                            "count": 46
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4627045,
+                            "title": "Двигуни",
+                            "count": 21
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 156378,
+                            "title": "Обприскувачі",
+                            "count": 13
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4674181,
+                            "title": "Мотопомпи",
+                            "count": 8
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 155072,
+                            "title": "Газонокосарки",
+                            "count": 8
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 155824,
+                            "title": "Культиватори та мотоблоки",
+                            "count": 7
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4672628,
+                            "title": "Ручні культиватори",
+                            "count": 3
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4672648,
+                            "title": "Секатори",
+                            "count": 1
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 153657,
+                            "title": "Шланги",
+                            "count": 1
+                        }
+                    ],
+                    "id": 2394297,
+                    "title": "Дача, сад, город",
+                    "count": 340
+                },
+                {
+                    "icon": "https://content1.rozetka.com.ua/goods/image_for_search/original/228453265.png",
+                    "children": [
+                        {
+                            "hide_cat": false,
+                            "id": 4634449,
+                            "title": "Електричні конвектори",
+                            "count": 24
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4656228,
+                            "title": "Теплові гармати",
+                            "count": 18
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 80248,
+                            "title": "Оливні (масляні) радіатори",
+                            "count": 10
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 80697,
+                            "title": "Сушарки для овочів і фруктів",
+                            "count": 4
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 81667,
+                            "title": "Настільні плити",
+                            "count": 2
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4645752,
+                            "title": "Запчастини для конвектора",
+                            "count": 1
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 80247,
+                            "title": "Інфрачервоні обігрівачі",
+                            "count": 1
+                        }
+                    ],
+                    "id": 80025,
+                    "title": "Побутова техніка, інтер'єр",
+                    "count": 60
+                },
+                {
+                    "icon": "https://content2.rozetka.com.ua/goods/image_for_search/original/228453292.png",
+                    "children": [
+                        {
+                            "hide_cat": false,
+                            "id": 152503,
+                            "title": "Шліфувальні та полірувальні машини (болгарки)",
+                            "count": 189
+                        },
+                        {
+                            "hide_cat": false,
+                            "id": 152499,
+                            "title": "Шурупокрути",
+                            "count": 124
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 153621,
+                            "title": "Перфоратори",
+                            "count": 68
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 152496,
+                            "title": "Дрилі та міксери",
+                            "count": 68
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4670641,
+                            "title": "Зварювальні апарати",
+                            "count": 64
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 154219,
+                            "title": "Точильні верстати",
+                            "count": 45
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 152560,
+                            "title": "Циркулярні пилки (Дискові)",
+                            "count": 37
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 174726,
+                            "title": "Багатофункційні інструменти",
+                            "count": 35
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 152505,
+                            "title": "Електролобзики",
+                            "count": 33
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 153965,
+                            "title": "Будівельні фени",
+                            "count": 26
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4672248,
+                            "title": "Нівеліри",
+                            "count": 24
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4668859,
+                            "title": "Торцювальні пили",
+                            "count": 23
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 155293,
+                            "title": "Пускозарядні пристрої",
+                            "count": 22
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 152562,
+                            "title": "Електрорубанки",
+                            "count": 22
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4641920,
+                            "title": "Свердлильні верстати",
+                            "count": 22
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 154195,
+                            "title": "Фрезери",
+                            "count": 21
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4649526,
+                            "title": "Паяльники для пластикових труб",
+                            "count": 20
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 1742727,
+                            "title": "Вантажопідіймальне обладнання",
+                            "count": 19
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4668853,
+                            "title": "Шабельні пили",
+                            "count": 12
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4670636,
+                            "title": "Зварювальні маски та окуляри",
+                            "count": 12
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 163892,
+                            "title": "Відбійні молотки",
+                            "count": 12
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4641872,
+                            "title": "Комбіновані верстати",
+                            "count": 11
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 3510492,
+                            "title": "Акумулятори та зарядні пристрої для інструменту і садової техніки",
+                            "count": 9
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4655457,
+                            "title": "Вібратори для бетону",
+                            "count": 9
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4669237,
+                            "title": "Гайковерти",
+                            "count": 7
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 154981,
+                            "title": "Фарбопульти",
+                            "count": 7
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4650321,
+                            "title": "Запчастини для бензотримерів",
+                            "count": 5
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 3510499,
+                            "title": "Столи, стійки, насадки",
+                            "count": 4
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4673719,
+                            "title": "Набори пневмоінструментів",
+                            "count": 4
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 278510,
+                            "title": "Автокомпресори",
+                            "count": 4
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 162118,
+                            "title": "Компресори",
+                            "count": 4
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 329355,
+                            "title": "Домкрати",
+                            "count": 3
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 156959,
+                            "title": "Штроборізи",
+                            "count": 3
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 298224,
+                            "title": "Набори інструментів",
+                            "count": 2
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4650201,
+                            "title": "Запчастини для болгарок",
+                            "count": 2
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 3510555,
+                            "title": "Шліфувальні елементи",
+                            "count": 2
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4641840,
+                            "title": "Циркулярні верстати",
+                            "count": 1
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4641704,
+                            "title": "Рейсмусові верстати",
+                            "count": 1
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 152564,
+                            "title": "Генератори",
+                            "count": 1
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4669243,
+                            "title": "Електровикрутки",
+                            "count": 1
+                        }
+                    ],
+                    "id": 4627858,
+                    "title": "Інструменти та автотовари",
+                    "count": 978
+                },
+                {
+                    "icon": "https://content.rozetka.com.ua/goods/image_for_search/original/228453293.png",
+                    "children": [
+                        {
+                            "hide_cat": true,
+                            "id": 4657382,
+                            "title": "Електросамокати",
+                            "count": 22
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4627631,
+                            "title": "Електровелосипеди",
+                            "count": 16
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 86278,
+                            "title": "Мотори",
+                            "count": 3
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4657400,
+                            "title": "Аксесуари для електротранспорту",
+                            "count": 2
+                        }
+                    ],
+                    "id": 4627893,
+                    "title": "Спорт і захоплення",
+                    "count": 43
+                },
+                {
+                    "icon": "https://content1.rozetka.com.ua/goods/image_for_search/original/228453290.png",
+                    "children": [
+                        {
+                            "hide_cat": true,
+                            "id": 1752177,
+                            "title": "Кормоподрібнювачі",
+                            "count": 20
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 155534,
+                            "title": "Універсальні мийки",
+                            "count": 10
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 155307,
+                            "title": "Промислові пилососи",
+                            "count": 5
+                        }
+                    ],
+                    "id": 4627851,
+                    "title": "Товари для бізнесу",
+                    "count": 35
+                },
+                {
+                    "icon": "https://content1.rozetka.com.ua/goods/image_for_search/original/228453285.png",
+                    "children": [
+                        {
+                            "hide_cat": true,
+                            "id": 4640632,
+                            "title": "Інкубатори",
+                            "count": 6
+                        },
+                        {
+                            "hide_cat": true,
+                            "id": 4626409,
+                            "title": "Інструменти для грумінгу",
+                            "count": 3
+                        }
+                    ],
+                    "id": 2394287,
+                    "title": "Товари для дому",
+                    "count": 9
+                }
+            ],
+            "config": {
+                "show_icon": true,
+                "show_hidden_categories": false
+            },
+            "current_category": null,
+            "option_title": "Всі категорії",
+            "option_name": "section_id",
+            "special_combobox_view": "tree",
+            "goods_quantity": 1465
+        },
+        "goods": [
+            {
+                "id": 297300973,
+                "title": "Циркулярна пила ProCraft KR-2600",
+                "href": "https://rozetka.com.ua/ua/297300973/p297300973/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "24510": {
+                        "opt_id": 24510,
+                        "o_title": "Джерело живлення",
+                        "go_value": "Мережа"
+                    },
+                    "23699": {
+                        "opt_id": 23699,
+                        "o_title": "Розмір столу",
+                        "go_value": "500"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 152560,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 5280,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 4761,
+                "price_pcs": "128.68",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/178902050.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/178902050.jpg",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/178902053.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/178902050.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 275133558,
+                "title": "Електропила ProCraft 2700 пряма (1 Шина + 1 Ланцюг)",
+                "href": "https://rozetka.com.ua/ua/275133558/p275133558/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "180021": {
+                        "opt_id": 180021,
+                        "o_title": "Довжина шини, мм",
+                        "go_value": "405"
+                    }
+                },
+                "category_id": 155515,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 4818,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 4380,
+                "price_pcs": "106.83",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/76036954.jpg",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/76036954.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/76036963.jpg",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/76036954.jpg"
+                },
+                "parent_category_id": 2394297,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 275133968,
+                "title": "Бензопила ProCraft Industrial К450 N (шина і ланцюг 40см, шина і ланцюг 45см)",
+                "href": "https://rozetka.com.ua/ua/275133968/p275133968/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "23970": {
+                        "opt_id": 23970,
+                        "o_title": "Тип",
+                        "go_value": "Бензопили"
+                    },
+                    "180039": {
+                        "opt_id": 180039,
+                        "o_title": "Особливості",
+                        "go_value": "Металевий зубчастий упор, Гальмо ланцюга, Легкий запуск, Автоматичне змащування ланцюга"
+                    },
+                    "180021": {
+                        "opt_id": 180021,
+                        "o_title": "Довжина шини, мм",
+                        "go_value": "405"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 155515,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 5016,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 4560,
+                "price_pcs": "123.24",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/240326742.jpg",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/240326742.jpg",
+                    "hover": "https://content.rozetka.com.ua/goods/images/big_tile/240326744.jpg",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/240326742.jpg"
+                },
+                "parent_category_id": 2394297,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 275134028,
+                "title": "Бензопила ProCraft Industrial К450 PRO (1 шина, 2 ланцюга)",
+                "href": "https://rozetka.com.ua/ua/275134028/p275134028/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "23970": {
+                        "opt_id": 23970,
+                        "o_title": "Тип",
+                        "go_value": "Бензопили"
+                    },
+                    "180039": {
+                        "opt_id": 180039,
+                        "o_title": "Особливості",
+                        "go_value": "Металевий зубчастий упор, Легкий запуск, Гальмо ланцюга, Автоматичне змащування ланцюга"
+                    },
+                    "180021": {
+                        "opt_id": 180021,
+                        "o_title": "Довжина шини, мм",
+                        "go_value": "450"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 155515,
+                "comments_amount": 2,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 5088,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 4625,
+                "price_pcs": "125",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/76039890.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/76039890.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/76039896.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/76039890.jpg"
+                },
+                "parent_category_id": 2394297,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 298312878,
+                "title": "Бензокоса ProCraft T-4200EL Pro (електростартер, 4 насадки)",
+                "href": "https://rozetka.com.ua/ua/298312878/p298312878/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 155089,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 6970,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 6336,
+                "price_pcs": "154.54",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/179841303.jpg",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/179841303.jpg",
+                    "hover": "https://content.rozetka.com.ua/goods/images/big_tile/179841308.jpg",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/179841303.jpg"
+                },
+                "parent_category_id": 2394297,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 272873466,
+                "title": "Електропила ProCraft 1800 (1 Шина, 1 Ланцюг)",
+                "href": "https://rozetka.com.ua/ua/272873466/p272873466/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "23970": {
+                        "opt_id": 23970,
+                        "o_title": "Тип",
+                        "go_value": "Електропили"
+                    },
+                    "180039": {
+                        "opt_id": 180039,
+                        "o_title": "Особливості",
+                        "go_value": "Автоматичне змащування ланцюга"
+                    },
+                    "180021": {
+                        "opt_id": 180021,
+                        "o_title": "Довжина шини, мм",
+                        "go_value": "355"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 155515,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 2793,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 2539,
+                "price_pcs": "61.93",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/178582861.jpg",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/178582861.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/178582862.jpg",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/178582861.jpg"
+                },
+                "parent_category_id": 2394297,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 292912938,
+                "title": "Бензокоса ProCraft T-5600 (4-х тактний)",
+                "href": "https://rozetka.com.ua/ua/292912938/p292912938/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 155089,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 8016,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 6960,
+                "price_pcs": "188.11",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/173852419.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/173852419.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/173852420.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/173852419.jpg"
+                },
+                "parent_category_id": 2394297,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 13,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 272872616,
+                "title": "Бензокоса ProCraft T-4500",
+                "href": "https://rozetka.com.ua/ua/272872616/p272872616/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 155089,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 5027,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 4570,
+                "price_pcs": "111.46",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/47691688.png",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/47691688.png",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/47691710.jpg",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/47691688.png"
+                },
+                "parent_category_id": 2394297,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 319332490,
+                "title": "Мотобур ProCraft PROFESSIONAL GD62 (в комплекті шнеки 150мм та 200мм + подовжувач 500мм)",
+                "href": "https://rozetka.com.ua/ua/319332490/p319332490/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 4627617,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 11827,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 10752,
+                "price_pcs": "262.24",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/222958909.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/222958909.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/222958916.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/222958909.jpg"
+                },
+                "parent_category_id": 2394297,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 319332532,
+                "title": "Мотобур ProCraft PROFESSIONAL GD62 (в комплекте шнеки 150мм, 200мм и 250мм + удлинитель)",
+                "href": "https://rozetka.com.ua/ua/319332532/p319332532/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 4627617,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 14150,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 12864,
+                "price_pcs": "313.76",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content1.rozetka.com.ua/goods/images/big_tile/222958991.jpg",
+                "images": {
+                    "main": "https://content1.rozetka.com.ua/goods/images/big_tile/222958991.jpg",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/222958993.jpg",
+                    "preview": "https://content1.rozetka.com.ua/goods/images/preview/222958991.jpg"
+                },
+                "parent_category_id": 2394297,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 272872261,
+                "title": "Пила дискова ProCraft KR-2300",
+                "href": "https://rozetka.com.ua/ua/272872261/p272872261/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "24510": {
+                        "opt_id": 24510,
+                        "o_title": "Джерело живлення",
+                        "go_value": "Мережа"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 152560,
+                "comments_amount": 5,
+                "comments_mark": 4.5,
+                "merchant_id": 17,
+                "old_price": 0,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 2793,
+                "price_pcs": "75.49",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/47688350.jpg",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/47688350.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/47688383.jpg",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/47688350.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 0,
+                "stars": "90%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 329790079,
+                "title": "Теплова гармата ProCraft Універсальний FP-30 (Керемика, 3 кВт)",
+                "href": "https://bt.rozetka.com.ua/ua/329790079/p329790079/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "33774": {
+                        "opt_id": 33774,
+                        "o_title": "Монтаж",
+                        "go_value": "Підлоговий"
+                    },
+                    "198516": {
+                        "opt_id": 198516,
+                        "o_title": "Потужність, Вт",
+                        "go_value": "3000"
+                    },
+                    "34054": {
+                        "opt_id": 34054,
+                        "o_title": "Призначення",
+                        "go_value": "Промисловий, Побутовий"
+                    },
+                    "106443": {
+                        "opt_id": 106443,
+                        "o_title": "Керування",
+                        "go_value": "Механічне"
+                    }
+                },
+                "category_id": 4656228,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 0,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 2098,
+                "price_pcs": "51.17",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/242688027.png",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/242688027.png",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/242688030.png",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/242688027.png"
+                },
+                "parent_category_id": 80025,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 0,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 272869191,
+                "title": "Рубанок електричний ProCraft PE-2150",
+                "href": "https://rozetka.com.ua/ua/272869191/p272869191/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "24510": {
+                        "opt_id": 24510,
+                        "o_title": "Джерело живлення",
+                        "go_value": "Мережа"
+                    },
+                    "23736": {
+                        "opt_id": 23736,
+                        "o_title": "Ширина обробки",
+                        "go_value": "110"
+                    },
+                    "23563": {
+                        "opt_id": 23563,
+                        "o_title": "Споживана потужність, Вт",
+                        "go_value": "2150"
+                    }
+                },
+                "category_id": 152562,
+                "comments_amount": 1,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 5237,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 4761,
+                "price_pcs": "116.12",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content1.rozetka.com.ua/goods/images/big_tile/47681825.png",
+                "images": {
+                    "main": "https://content1.rozetka.com.ua/goods/images/big_tile/47681825.png",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/47681834.jpg",
+                    "preview": "https://content1.rozetka.com.ua/goods/images/preview/47681825.png"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 336429442,
+                "title": "Аккумуляторный воздушный компрессор Procraft LK20 (Без АКБ и ЗУ)",
+                "href": "https://rozetka.com.ua/ua/336429442/p336429442/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "27166": {
+                        "opt_id": 27166,
+                        "o_title": "Тип",
+                        "go_value": "Ручні"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 278510,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 0,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 1776,
+                "price_pcs": "48",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/255230847.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/255230847.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/255230848.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/255230847.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 0,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 329789962,
+                "title": "Теплова гармата ProCraft Universal FP-20 (Кереміка, 2 кВт)",
+                "href": "https://bt.rozetka.com.ua/ua/329789962/p329789962/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "33774": {
+                        "opt_id": 33774,
+                        "o_title": "Монтаж",
+                        "go_value": "Підлоговий"
+                    },
+                    "198516": {
+                        "opt_id": 198516,
+                        "o_title": "Потужність, Вт",
+                        "go_value": "2000"
+                    },
+                    "34054": {
+                        "opt_id": 34054,
+                        "o_title": "Призначення",
+                        "go_value": "Промисловий, Побутовий"
+                    },
+                    "106443": {
+                        "opt_id": 106443,
+                        "o_title": "Керування",
+                        "go_value": "Механічне"
+                    }
+                },
+                "category_id": 4656228,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 0,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 1459,
+                "price_pcs": "35.59",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/242688971.png",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/242688971.png",
+                    "hover": "https://content.rozetka.com.ua/goods/images/big_tile/242688973.png",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/242688971.png"
+                },
+                "parent_category_id": 80025,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 0,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 275133703,
+                "title": "Набір акумуляторних інструментів ProCraft Industrial РА 168 SET",
+                "href": "https://rozetka.com.ua/ua/275133703/p275133703/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "24510": {
+                        "opt_id": 24510,
+                        "o_title": "Джерело живлення",
+                        "go_value": "Акумулятор"
+                    },
+                    "23589": {
+                        "opt_id": 23589,
+                        "o_title": "Тип патрона",
+                        "go_value": "Швидкозатискний"
+                    }
+                },
+                "category_id": 152499,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 0,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 4440,
+                "price_pcs": "108.29",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/76038245.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/76038245.jpg",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/76038266.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/76038245.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 0,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 272873741,
+                "title": "Пила дискова ProCraft KR-2500",
+                "href": "https://rozetka.com.ua/ua/272873741/p272873741/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "24510": {
+                        "opt_id": 24510,
+                        "o_title": "Джерело живлення",
+                        "go_value": "Мережа"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 152560,
+                "comments_amount": 2,
+                "comments_mark": 5,
+                "merchant_id": 17,
+                "old_price": 0,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 4253,
+                "price_pcs": "114.95",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/178585211.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/178585211.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/178585212.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/178585211.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 0,
+                "stars": "100%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 275133403,
+                "title": "Шуруповерт ProCraft Industrial PA18DFR Extra",
+                "href": "https://rozetka.com.ua/ua/275133403/p275133403/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "24510": {
+                        "opt_id": 24510,
+                        "o_title": "Джерело живлення",
+                        "go_value": "Акумулятор"
+                    },
+                    "23589": {
+                        "opt_id": 23589,
+                        "o_title": "Тип патрона",
+                        "go_value": "Швидкозатискний"
+                    }
+                },
+                "category_id": 152499,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 0,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 3110,
+                "price_pcs": "75.85",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/76036120.jpg",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/76036120.jpg",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/76036135.jpg",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/76036120.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 0,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 272873766,
+                "title": "Лазерний рівень ProCraft LE-5D (зелений промінь)",
+                "href": "https://rozetka.com.ua/ua/272873766/p272873766/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 4672248,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 0,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 3928,
+                "price_pcs": "106.16",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content1.rozetka.com.ua/goods/images/big_tile/255265033.jpg",
+                "images": {
+                    "main": "https://content1.rozetka.com.ua/goods/images/big_tile/255265033.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/255265044.jpg",
+                    "preview": "https://content1.rozetka.com.ua/goods/images/preview/255265033.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 0,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 288078983,
+                "title": "Перфоратор прямий ProCraft BH-1400",
+                "href": "https://rozetka.com.ua/ua/288078983/p288078983/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "24510": {
+                        "opt_id": 24510,
+                        "o_title": "Джерело живлення",
+                        "go_value": "Мережа"
+                    },
+                    "23629": {
+                        "opt_id": 23629,
+                        "o_title": "Тип патрона",
+                        "go_value": "SDS+"
+                    },
+                    "23635": {
+                        "opt_id": 23635,
+                        "o_title": "Максимальна швидкість обертання",
+                        "go_value": "1200"
+                    },
+                    "23636": {
+                        "opt_id": 23636,
+                        "o_title": "Частота ударів на хвилину",
+                        "go_value": "4000"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 153621,
+                "comments_amount": 1,
+                "comments_mark": 5,
+                "merchant_id": 17,
+                "old_price": 3485,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 3360,
+                "price_pcs": "90.81",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content1.rozetka.com.ua/goods/images/big_tile/169172343.jpg",
+                "images": {
+                    "main": "https://content1.rozetka.com.ua/goods/images/big_tile/169172343.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/169172344.jpg",
+                    "preview": "https://content1.rozetka.com.ua/goods/images/preview/169172343.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 3,
+                "stars": "100%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 272872861,
+                "title": "Перфоратор ProCraft Industrial BH-2100",
+                "href": "https://rozetka.com.ua/ua/272872861/p272872861/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "24510": {
+                        "opt_id": 24510,
+                        "o_title": "Джерело живлення",
+                        "go_value": "Мережа"
+                    },
+                    "23629": {
+                        "opt_id": 23629,
+                        "o_title": "Тип патрона",
+                        "go_value": "SDS+"
+                    },
+                    "23636": {
+                        "opt_id": 23636,
+                        "o_title": "Частота ударів на хвилину",
+                        "go_value": "3800"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 153621,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 5040,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 4596,
+                "price_pcs": "124.22",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/191270321.jpg",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/191270321.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/191270328.jpg",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/191270321.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 8,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 329790004,
+                "title": "Перфоратор бочкової ProCraft BH-2250 (кейс, шнур 3м)",
+                "href": "https://rozetka.com.ua/ua/329790004/p329790004/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "24510": {
+                        "opt_id": 24510,
+                        "o_title": "Джерело живлення",
+                        "go_value": "Мережа"
+                    },
+                    "23629": {
+                        "opt_id": 23629,
+                        "o_title": "Тип патрона",
+                        "go_value": "SDS+"
+                    },
+                    "23635": {
+                        "opt_id": 23635,
+                        "o_title": "Максимальна швидкість обертання",
+                        "go_value": "860"
+                    },
+                    "23636": {
+                        "opt_id": 23636,
+                        "o_title": "Частота ударів на хвилину",
+                        "go_value": "4200"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 153621,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 0,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 4440,
+                "price_pcs": "120",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/242689033.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/242689033.jpg",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/242689037.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/242689033.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 0,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 336429382,
+                "title": "Аккумуляторная мини болгарка Procraft PGA12 (без АКБ и ЗУ)",
+                "href": "https://rozetka.com.ua/ua/336429382/p336429382/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 152503,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 0,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 1709,
+                "price_pcs": "41.68",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/255230680.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/255230680.jpg",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/255230685.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/255230680.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 0,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 297300988,
+                "title": "Болгарка ProCraft PW1600 SE Professional (150мм, регулювання та підтримка оборотів)",
+                "href": "https://rozetka.com.ua/ua/297300988/p297300988/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 152503,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 2513,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 2285,
+                "price_pcs": "55.73",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/178902027.png",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/178902027.png",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/178902029.png",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/178902027.png"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 329790016,
+                "title": "Перфоратор бочкової ProCraft BH-1750 (кейс, шнур 3м)",
+                "href": "https://rozetka.com.ua/ua/329790016/p329790016/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "24510": {
+                        "opt_id": 24510,
+                        "o_title": "Джерело живлення",
+                        "go_value": "Мережа"
+                    },
+                    "23629": {
+                        "opt_id": 23629,
+                        "o_title": "Тип патрона",
+                        "go_value": "SDS+"
+                    },
+                    "23635": {
+                        "opt_id": 23635,
+                        "o_title": "Максимальна швидкість обертання",
+                        "go_value": "950"
+                    },
+                    "23636": {
+                        "opt_id": 23636,
+                        "o_title": "Частота ударів на хвилину",
+                        "go_value": "2800"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 153621,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 0,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 4061,
+                "price_pcs": "99.05",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/242688016.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/242688016.jpg",
+                    "hover": "https://content.rozetka.com.ua/goods/images/big_tile/242688019.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/242688016.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 0,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 325325323,
+                "title": "Перфоратор прямий ProCraft BH-1250 DFR",
+                "href": "https://rozetka.com.ua/ua/325325323/p325325323/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "24510": {
+                        "opt_id": 24510,
+                        "o_title": "Джерело живлення",
+                        "go_value": "Мережа"
+                    },
+                    "23629": {
+                        "opt_id": 23629,
+                        "o_title": "Тип патрона",
+                        "go_value": "SDS+"
+                    },
+                    "23635": {
+                        "opt_id": 23635,
+                        "o_title": "Максимальна швидкість обертання",
+                        "go_value": "1300"
+                    },
+                    "23636": {
+                        "opt_id": 23636,
+                        "o_title": "Частота ударів на хвилину",
+                        "go_value": "4000"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 153621,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 3840,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 3491,
+                "price_pcs": "85.15",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content1.rozetka.com.ua/goods/images/big_tile/234718221.png",
+                "images": {
+                    "main": "https://content1.rozetka.com.ua/goods/images/big_tile/234718221.png",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/234718228.jpg",
+                    "preview": "https://content1.rozetka.com.ua/goods/images/preview/234718221.png"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 275133798,
+                "title": "Фен ProCraft Industrial PH2500",
+                "href": "https://rozetka.com.ua/ua/275133798/p275133798/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "23563": {
+                        "opt_id": 23563,
+                        "o_title": "Споживана потужність, Вт",
+                        "go_value": "2500"
+                    },
+                    "23743": {
+                        "opt_id": 23743,
+                        "o_title": "Повітряний потік",
+                        "go_value": "50-650"
+                    }
+                },
+                "category_id": 153965,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 3072,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 2793,
+                "price_pcs": "75.49",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/178582959.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/178582959.jpg",
+                    "hover": "https://content.rozetka.com.ua/goods/images/big_tile/178582960.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/178582959.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 310888328,
+                "title": "Болгарка ProCraft PW 125 1100ES (регулювання і підтримання обертів)",
+                "href": "https://rozetka.com.ua/ua/310888328/p310888328/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 152503,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 1883,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 1711,
+                "price_pcs": "41.73",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content1.rozetka.com.ua/goods/images/big_tile/195229659.jpg",
+                "images": {
+                    "main": "https://content1.rozetka.com.ua/goods/images/big_tile/195229659.jpg",
+                    "hover": "https://content.rozetka.com.ua/goods/images/big_tile/195229665.jpg",
+                    "preview": "https://content1.rozetka.com.ua/goods/images/preview/195229659.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 289358583,
+                "title": "Машина полірувальна ProCraft PM2100",
+                "href": "https://rozetka.com.ua/ua/289358583/p289358583/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 152503,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 3485,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 3168,
+                "price_pcs": "85.62",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/170407715.jpg",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/170407715.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/170407716.jpg",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/170407715.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 272870196,
+                "title": "Ексцентрикова шліфмашина ProCraft EX-850E",
+                "href": "https://rozetka.com.ua/ua/272870196/p272870196/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 152503,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 1885,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 1714,
+                "price_pcs": "41.8",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content1.rozetka.com.ua/goods/images/big_tile/47682451.jpg",
+                "images": {
+                    "main": "https://content1.rozetka.com.ua/goods/images/big_tile/47682451.jpg",
+                    "hover": "https://content.rozetka.com.ua/goods/images/big_tile/47682462.jpg",
+                    "preview": "https://content1.rozetka.com.ua/goods/images/preview/47682451.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 272869156,
+                "title": "Болгарка ProCraft PW 125 1350E",
+                "href": "https://rozetka.com.ua/ua/272869156/p272869156/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 152503,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 1917,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 1742,
+                "price_pcs": "42.49",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/47681138.png",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/47681138.png",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/47681152.jpg",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/47681138.png"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 272870361,
+                "title": "Болгарка ProCraft PW 125 1100E",
+                "href": "https://rozetka.com.ua/ua/272870361/p272870361/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 152503,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 1883,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 1711,
+                "price_pcs": "46.24",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content1.rozetka.com.ua/goods/images/big_tile/47685336.jpg",
+                "images": {
+                    "main": "https://content1.rozetka.com.ua/goods/images/big_tile/47685336.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/47685337.jpg",
+                    "preview": "https://content1.rozetka.com.ua/goods/images/preview/47685336.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 272872586,
+                "title": "Зварювальний апарат інверторний напівавтомат ProCraft SPH-310P MIG+MMA",
+                "href": "https://rozetka.com.ua/ua/272872586/p272872586/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "23841": {
+                        "opt_id": 23841,
+                        "o_title": "Максимальний зварювальний струм",
+                        "go_value": "310"
+                    },
+                    "250285": {
+                        "opt_id": 250285,
+                        "o_title": "Захист від перегріву",
+                        "go_value": "Так"
+                    },
+                    "23842": {
+                        "opt_id": 23842,
+                        "o_title": "Зварювальний струм",
+                        "go_value": "310"
+                    },
+                    "23844": {
+                        "opt_id": 23844,
+                        "o_title": "Діаметр зварювального дроту",
+                        "go_value": "1.6-4"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 4670641,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 14064,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 12960,
+                "price_pcs": "316.1",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/241073163.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/241073163.jpg",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/241073173.png",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/241073163.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 7,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 319332523,
+                "title": "Верстат для заточування пиляльних дисків ProCraft SS-350",
+                "href": "https://rozetka.com.ua/ua/319332523/p319332523/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "23828": {
+                        "opt_id": 23828,
+                        "o_title": "Споживна потужність",
+                        "go_value": "350"
+                    },
+                    "23830": {
+                        "opt_id": 23830,
+                        "o_title": "Зовнішній діаметр шліфувального круга",
+                        "go_value": "100"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 154219,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 5516,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 5015,
+                "price_pcs": "135.54",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content1.rozetka.com.ua/goods/images/big_tile/222959003.png",
+                "images": {
+                    "main": "https://content1.rozetka.com.ua/goods/images/big_tile/222959003.png",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/222959012.png",
+                    "preview": "https://content1.rozetka.com.ua/goods/images/preview/222959003.png"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 303104968,
+                "title": "Точило ProCraft Industrial PAE900/150",
+                "href": "https://rozetka.com.ua/ua/303104968/p303104968/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "23828": {
+                        "opt_id": 23828,
+                        "o_title": "Споживна потужність",
+                        "go_value": "900"
+                    },
+                    "23830": {
+                        "opt_id": 23830,
+                        "o_title": "Зовнішній діаметр шліфувального круга",
+                        "go_value": "150"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 154219,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 1919,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 1837,
+                "price_pcs": "49.65",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content2.rozetka.com.ua/goods/images/big_tile/184912321.jpg",
+                "images": {
+                    "main": "https://content2.rozetka.com.ua/goods/images/big_tile/184912321.jpg",
+                    "hover": "https://content1.rozetka.com.ua/goods/images/big_tile/184912330.jpg",
+                    "preview": "https://content2.rozetka.com.ua/goods/images/preview/184912321.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 4,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            },
+            {
+                "id": 275133433,
+                "title": "Точило електричне ProCraft PAE 150/600",
+                "href": "https://rozetka.com.ua/ua/275133433/p275133433/",
+                "docket": "",
+                "is_docket": false,
+                "description_fields": {
+                    "23828": {
+                        "opt_id": 23828,
+                        "o_title": "Споживна потужність",
+                        "go_value": "600"
+                    },
+                    "23830": {
+                        "opt_id": 23830,
+                        "o_title": "Зовнішній діаметр шліфувального круга",
+                        "go_value": "150"
+                    },
+                    "87790": {
+                        "opt_id": 87790,
+                        "o_title": "Країна реєстрації бренду",
+                        "go_value": "Німеччина"
+                    }
+                },
+                "category_id": 154219,
+                "comments_amount": 0,
+                "comments_mark": 0,
+                "merchant_id": 17,
+                "old_price": 1728,
+                "pl_bonus_charge_pcs": 0,
+                "pl_use_instant_bonus": 0,
+                "price": 1570,
+                "price_pcs": "38.29",
+                "sell_status": "unavailable",
+                "status": "unavailable",
+                "seller_id": 120941,
+                "state": "new",
+                "image_main": "https://content.rozetka.com.ua/goods/images/big_tile/76035902.jpg",
+                "images": {
+                    "main": "https://content.rozetka.com.ua/goods/images/big_tile/76035902.jpg",
+                    "hover": "https://content2.rozetka.com.ua/goods/images/big_tile/76035913.jpg",
+                    "preview": "https://content.rozetka.com.ua/goods/images/preview/76035902.jpg"
+                },
+                "parent_category_id": 4627858,
+                "brand": "procraft",
+                "brand_id": 246550,
+                "producer_id": 246550,
+                "discount": 9,
+                "stars": "0%",
+                "groups": {
+                    "block": null,
+                    "color": null,
+                    "prices": null
+                },
+                "is_groups_title": false,
+                "config": {
+                    "bonus": true,
+                    "brand": false,
+                    "buy_button": true,
+                    "compare_button": true,
+                    "description": true,
+                    "gift": false,
+                    "image": true,
+                    "old_price": true,
+                    "pictograms": true,
+                    "price": true,
+                    "promo_price": false,
+                    "rating": true,
+                    "status": true,
+                    "tags": true,
+                    "title": true,
+                    "variables": true,
+                    "wishlist_button": true,
+                    "promo_code": false,
+                    "hide_rating_review": false,
+                    "show_supermarket_price": false
+                }
+            }
+        ],
+        "seller_reviews": null,
+        "meta": {
+            "page_title": "ProCraft продавця Instrument.Free",
+            "description": "Каталог товарів компанії Instrument.Free в iнтернет-супермаркетi Розетка за найкращими цінами. ✓Гарантія якості від виробника ✓Доставка по всій Україні / Самовивіз.",
+            "keywords": "Instrument.Free",
+            "footer_title": "",
+            "footer_content": "",
+            "page_header_info_title": "ProCraft продавця Instrument.Free",
+            "robots": "noindex,nofollow",
+            "navigateTo": null
+        }
+    }
+}
