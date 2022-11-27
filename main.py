@@ -1,5 +1,6 @@
 import csv
 import json
+import os.path
 
 import requests
 
@@ -8,7 +9,7 @@ from headers_and_cookies import headers, cookies
 
 def get_data():
     """ """
-    with open("data/data.csv", "a", encoding="utf-8") as file:
+    with open("data/data.csv", "w", encoding="utf-8") as file:
         writer = csv.writer(file)
         writer.writerow(
             (
@@ -47,7 +48,7 @@ def get_data():
     count_images = 0
     count_videos = 0
 
-    for category in category_name[:1]:
+    for category in category_name:
 
         params = {
             'front-type': 'xl',
@@ -84,7 +85,7 @@ def get_data():
             href = response.get("data").get("href")
             brand = response.get("data").get("brand")
             last_category = response.get("data").get("last_category").get("title")
-            images = [image.get("original").get("url") for image in response.get("data").get("images")]
+            images = [image.get("original").get("url")  for image in response.get("data").get("images")]
             videos = response.get("data").get("videos")
             description = response.get("data").get("description").get("text")
 
@@ -122,8 +123,8 @@ def get_data():
                     )
                 )
             count_items += 1
-            count_images += 1
-            count_videos += 1
+            count_images += len(images)
+            count_videos += len(videos)
 
             print(f"{count_items}/{total_products}")
 
@@ -136,8 +137,54 @@ def get_data():
         json.dump(data, file, indent=4, ensure_ascii=False)
 
 
+def download_imgs():
+    """ """
+    with open("data/data.json", "r", encoding="utf-8") as file:
+        data = json.load(file)
+
+    products = data.get("products")
+    count_images = data.get("count_images")
+    count_items = data.get("count_items")
+    with requests.Session() as session:
+
+        count_item = 0
+        count_img = 0
+        for product in products:
+            name = str(product.get("Назва"))
+            rep = [",", ";", "(", ")", "\\", "/", " ", "-", "?", "\""]
+            for i in rep:
+                if i in name:
+                    name = name.replace(i, "_")
+
+            image_urls = product.get("Посилання на зображення")
+            description = product.get("Опис")
+
+            if not os.path.exists(f"data/products/{name}"):
+                os.mkdir(f"data/products/{name}")
+
+            with open(f"data/products/{name}/description.txt", "w", encoding="utf-8") as file:
+                file.write(str(description))
+
+            count = 0
+            for url in image_urls:
+
+                response = session.get(url=url, headers=headers, cookies=cookies)
+
+                with open(f"data/products/{name}/{count}.png", "wb") as file:
+                    file.write(response.content)
+
+                count += 1
+                count_img += 1
+
+                print(f"{count_img}/{count_images} is downloaded!!!")
+
+            count_item += 1
+            print(f"{count_items}/{count_items} Items")
+
+
 def main():
     get_data()
+    download_imgs()
 
 
 if __name__ == '__main__':
